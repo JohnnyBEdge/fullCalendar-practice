@@ -3,10 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fullcalendar/core": "^5.3.1",
+    "@fullcalendar/daygrid": "^5.3.2",
+    "@fullcalendar/interaction": "^4.4.2",
+    "@fullcalendar/react": "^5.3.1",
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "fullcalendar": "^5.3.2",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.6",
     "react": "^17.0.1",
+    "react-big-calendar": "^0.28.2",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
     "web-vitals": "^0.2.4"

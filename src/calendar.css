@@ -1,0 +1,6 @@
+#cal_container{
+    width: 800px;
+    margin: 0 auto;
+    border: solid black 2px;
+    border-radius: 5px;
+}
